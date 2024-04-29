@@ -14,3 +14,16 @@ Home Page:
 
 Book Appointments Page
 <img width="943" alt="BookAppointmentPage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/58a2c078-7f75-4cef-8c47-1abfd87c1cdb">
+
+My appointments Page:
+<img width="958" alt="MyAppointmentsPage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/7100364f-5c03-4ace-8311-6a6b1cb49ba9">
+
+forgotPwdPage:
+<img width="427" alt="forgotpwdpage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/907dc842-aa70-4486-8457-eb033a2bf6b7">
+
+forgotmail page:
+<img width="752" alt="SibMaiLpage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/5eb3b783-7e3d-496f-99bd-0e39c07810ab">
+
+slots available page :
+This page appears once the user clicks on the boo appointment button of book appointment page
+<img width="945" alt="slotspage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/683e1a3c-02ba-4cf2-8add-4110818b0c1c">
