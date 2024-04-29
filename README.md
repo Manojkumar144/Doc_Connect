@@ -1,5 +1,13 @@
 Doc_Connect  is an online Website that lets user to book appointment with the doctors in the particular location.
 
+Architecture Implemented :MVC.
+
+tools and technologies used: HTML, CSS, Javascript, node.js, express.js sendinBlue(for mailing services), Sequelize(ORM), Sql, Jwt(Authorization), bcrypt library to store the password in a secure way and used Axios to communicate with frontend and backend.
+
+Summary :
+the user can book their appointment with their doctors in their respective time anywhere between 5.00 pm and 9.00 pm and the booked slots will be available in their my appointments page. The user can also cancel their appointments. 
+
+Note: The application has limitations which will be addressed in the future... 
 
 <img width="946" alt="loginpage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/fb1cb3a3-fc15-4f9a-8909-2b939b9e18a6">
 
