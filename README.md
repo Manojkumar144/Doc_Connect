@@ -7,3 +7,7 @@ Doc_Connect  is an online Website that lets user to book appointment with the do
 signUp Page:
 
 <img width="903" alt="signuppage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/15bdcb2f-9298-41b2-963c-c0d3476186df">
+
+Home Page:
+
+<img width="947" alt="homepage" src="https://github.com/Manojkumar144/Doc_Connect/assets/64532796/3b62862b-2b6c-44c7-86ab-39c633f5a0cd">
